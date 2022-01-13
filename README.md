@@ -1,2 +1,8 @@
 # Ohjelmointi2HT
-Opintoloki javalla  <br /> Tekijät: Justus Uurtimo & Olli Mehtonen <br /> Tehty 2020 alkuvuonna
+Opintoloki javalla  <br /> Tekijät: Justus Uurtimo & Olli Mehtonen <br /> Tehty 2019 alkuvuonna  
+  
+###### Kirjautumisikkuna
+![](https://github.com/OlliMehtonen/Ohjelmointi2HT/blob/main/kuvat/Kirjautuminen.png)  
+  
+###### Pääikkuna
+![](https://github.com/OlliMehtonen/Ohjelmointi2HT/blob/main/kuvat/PaaIkkuna.png)
