@@ -6,3 +6,6 @@ Opintoloki javalla  <br /> Tekijät: Justus Uurtimo & Olli Mehtonen <br /> Tehty
   
 ###### Pääikkuna
 ![](https://github.com/OlliMehtonen/Ohjelmointi2HT/blob/main/kuvat/PaaIkkuna.png)
+  
+###### Relaatiomalli tietorakenteesta
+![](https://github.com/OlliMehtonen/Ohjelmointi2HT/blob/main/kuvat/vaihe4.png)
